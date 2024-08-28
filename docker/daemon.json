@@ -1,0 +1,13 @@
+{
+  "registry-mirrors": [
+        "https://mz5qcb73.mirror.aliyuncs.com",
+        "https://docker.registry.cyou",
+        "https://docker.jsdelivr.fyi",
+        "https://dockerpull.com",
+        "https://dockerhub.icu",
+        "https://docker.ckyl.me",
+        "https://hub.uuuadc.top"
+
+
+]
+}
